@@ -1,0 +1,55 @@
+﻿PtID,Fib4_1yr_Actual-Expect,Fib4_5yr_Actual-Expect,ASCVD_1yr_Actual-Expect,ASCVD_5yr_Actual-Expect,Outcome_Death,Outcome_Death_Liver_Cardio,Outcome,Fib4_1yr_progression,Fib4_5yr_progression,ADI_state_group,ASCVD_1yr_progression,ASCVD_5yr_progression
+A1,0.29,0.77,NA,NA,Alive,Alive,Alive/ Followed,Progress,Progress,State AWI 1-3,NA,NA
+A2,NA,-0.49,NA,-0.1,Alive,Alive,Alive/ Followed,NA,Improve,State AWI 7-10,NA,as expected with age
+A3,2.14,0.13,0.4,11.8,Alive,Alive,Alive/ Followed,Progress,As expected with age,State AWI 3-6,As expected with age,Progress
+B1,-0.12,0.24,2.9,4.1,Alive,Alive,Alive/ Followed,As expected with age,Progress,State AWI 1-3,Progress,Progress
+B2,-0.26,-0.43,-0.3,-1.2,Alive,Alive,Alive/ Followed,Improve,Improve,State AWI 3-6,As expected with age,as expected with age
+B3,0.12,0.49,NA,0.2,Alive,Alive,Alive/ Followed,As expected with age,Progress,State AWI 3-6,NA,as expected with age
+C1,0.67,-0.06,-3.1,-3,Alive,Alive,Alive/ Followed,Progress,As expected with age,State AWI 1-3,Improve,Improve
+C2,0.05,NA,0.4,NA,Alive,Alive,Lost to follow-up 5 yr,As expected with age,NA,State AWI 1-3,As expected with age,NA
+C3,NA,NA,NA,NA,Alive,Alive,Lost to follow-up 5 yr,NA,NA,State AWI 1-3,NA,NA
+D1,-0.38,NA,NA,NA,Alive,Alive,Lost to follow-up 5 yr,Improve,NA,State AWI 1-3,NA,NA
+E1,NA,NA,NA,NA,Alive,Alive,Lost to Follow-up 1 yr ,NA,NA,State AWI 1-3,NA,NA
+E2,0.07,NA,NA,NA,Alive,Alive,Lost to follow-up 5 yr,As expected with age,NA,State AWI 7-10,NA,NA
+E3,0,-0.12,-2.2,-7.7,Alive,Alive,Alive/ Followed,As expected with age,As expected with age,State AWI 3-6,Improve,Improve
+F1,1.49,5.15,NA,-6.3,Alive,Alive,Alive/ Followed,Progress,Progress,State AWI 1-3,NA,Improve
+F2,-0.54,-0.36,NA,NA,Alive,Alive,Alive/ Followed,Improve,Improve,State AWI 7-10,NA,NA
+F3,NA,NA,NA,NA,Alive,Alive,Lost to Follow-up 1 yr ,NA,NA,State AWI 1-3,NA,NA
+G1,-0.49,-0.37,2.8,-0.2,Alive,Alive,Alive/ Followed,Improve,Improve,State AWI 1-3,Progress,as expected with age
+G2,-0.19,-0.24,-0.3,-4.2,Alive,Alive,Alive/ Followed,As expected with age,Improve,State AWI 1-3,As expected with age,Improve
+G3,NA,NA,NA,NA,Death,Liver Death,Death,NA,Progress,State AWI 7-10,NA,Progress
+H1,0.07,0,-4.1,-3.8,Alive,Alive,Alive/ Followed,As expected with age,As expected with age,State AWI 1-3,Improve,Improve
+H2,0.58,NA,8.7,NA,Alive,Alive,Lost to follow-up 5 yr,Progress,NA,State AWI 1-3,Progress,NA
+H3,2.64,NA,-6.7,NA,Death,Cardiac Death,Death,Progress,Progress,State AWI 3-6,Improve,Progress
+I1,-0.03,-0.03,NA,-0.4,Alive,Alive,Alive/ Followed,As expected with age,As expected with age,State AWI 1-3,NA,as expected with age
+I2,-0.05,0.16,-1.7,-4.2,Alive,Alive,Alive/ Followed,As expected with age,As expected with age,State AWI 1-3,As expected with age,Improve
+I3,-0.19,-0.97,NA,0.3,Alive,Alive,Alive/ Followed,As expected with age,Improve,State AWI 3-6,NA,as expected with age
+J1,0.14,0.35,-0.8,0.3,Alive,Alive,Alive/ Followed,As expected with age,Progress,State AWI 1-3,As expected with age,as expected with age
+J2,-1.13,-0.4,8.4,0.6,Alive,Alive,Alive/ Followed,Improve,Improve,State AWI 3-6,Progress,as expected with age
+J3,0.05,0.09,-0.6,0.6,Alive,Alive,Alive/ Followed,As expected with age,As expected with age,State AWI 3-6,As expected with age,as expected with age
+K1,-0.26,-0.29,-0.6,-0.5,Alive,Alive,Alive/ Followed,Improve,Improve,State AWI 1-3,As expected with age,as expected with age
+K2,-0.33,-0.13,-13.4,-8.6,Alive,Alive,Alive/ Followed,Improve,As expected with age,State AWI 1-3,Improve,Improve
+K3,0.62,NA,6.5,NA,Alive,Alive,Lost to follow-up 5 yr,Progress,NA,State AWI 1-3,Progress,NA
+L1,0.58,-1.72,NA,NA,Alive,Alive,Alive/ Followed,Progress,Improve,State AWI 7-10,NA,NA
+L2,-0.11,-0.5,4.2,-4.1,Alive,Alive,Alive/ Followed,As expected with age,Improve,State AWI 7-10,Progress,Improve
+L3,-1.2,-1.95,NA,NA,Alive,Alive,Alive/ Followed,Improve,Improve,State AWI 7-10,NA,NA
+M1,NA,NA,NA,NA,Alive,Alive,Lost to Follow-up 1 yr ,NA,NA,State AWI 1-3,NA,NA
+M2,0.15,2.01,10.9,9.3,Alive,Alive,Alive/ Followed,As expected with age,Progress,State AWI 7-10,Progress,Progress
+M3,0.06,-0.51,NA,NA,Alive,Alive,Alive/ Followed,As expected with age,Improve,State AWI 7-10,NA,NA
+N1,-1.35,-0.33,2.5,-4.1,Alive,Alive,Alive/ Followed,Improve,Improve,State AWI 3-6,Progress,Improve
+N2,-0.16,-0.2,NA,-2.4,Alive,Alive,Alive/ Followed,As expected with age,Improve,State AWI 7-10,NA,Improve
+N3,0.15,0.52,-0.3,-1.7,Alive,Alive,Alive/ Followed,As expected with age,Progress,State AWI 1-3,As expected with age,as expected with age
+O1,-0.19,0.13,-1.1,-1,Alive,Alive,Alive/ Followed,As expected with age,As expected with age,State AWI 7-10,As expected with age,as expected with age
+O2,-0.01,0.12,-0.3,-1.3,Alive,Alive,Alive/ Followed,As expected with age,As expected with age,State AWI 7-10,As expected with age,as expected with age
+O3,0.54,NA,NA,NA,Alive,Alive,Lost to follow-up 5 yr,Progress,NA,State AWI 7-10,NA,NA
+P1,2.99,NA,-7.7,NA,Alive,Alive,Lost to follow-up 5 yr,Progress,NA,State AWI 7-10,Improve,NA
+P2,-0.01,-0.19,-1.2,-0.7,Alive,Alive,Alive/ Followed,As expected with age,As expected with age,State AWI 1-3,As expected with age,as expected with age
+P3,0.91,-0.01,-2.2,2.7,Alive,Alive,Alive/ Followed,Progress,As expected with age,State AWI 1-3,Improve,Progress
+Q1,NA,NA,NA,NA,Death,Death,Death,NA,Progress,State AWI 7-10,NA,Progress
+Q2,0.13,-0.02,-0.1,-0.9,Alive,Alive,Alive/ Followed,As expected with age,As expected with age,State AWI 1-3,As expected with age,as expected with age
+Q3,0.37,NA,-0.3,NA,Alive,Alive,Lost to follow-up 5 yr,Progress,NA,State AWI 3-6,As expected with age,NA
+R1,NA,NA,NA,NA,Death,Death,Death,NA,Progress,State AWI 7-10,NA,Progress
+R2,0,0.18,-0.7,-1.5,Alive,Alive,Alive/ Followed,As expected with age,As expected with age,State AWI 1-3,As expected with age,as expected with age
+R3,NA,NA,NA,NA,Alive,Alive,Lost to Follow-up 1 yr ,NA,NA,State AWI 7-10,NA,NA
+S1,NA,NA,NA,NA,Alive,Alive,Lost to Follow-up 1 yr ,NA,NA,State AWI 1-3,NA,NA
+S2,-0.72,NA,-11.1,NA,Death,Cardiac Death,Death,Improve,Progress,State AWI 7-10,Improve,Progress
