@@ -11,7 +11,7 @@ library(stringr)
 library(zipcodeR)
 library(geosphere)
 
-setwd("/Users/liztown/Documents/LiverResearch2024/Said.902/NADLF_ADI_paper/NAFLD_Rcode")
+setwd("Ltowns22/UW_LiverDiseaseResearch/Townsend_Said_MASLD_BuiltEnvironment")
 
 # function to get the mode values for the zipcodes with only 5 digits 
 MedianADI_function <- function(Zip5_list, ADI.df){
