@@ -22,7 +22,7 @@ library(Matrix)
 library(lme4)
 library(lmerTest)
 
-setwd("Ltowns22/UW_LiverDiseaseResearch/edit/main/Townsend_Said_MASLD_BuiltEnvironment/Townsend_Said_MASLD_BuiltEnvironment")
+setwd("Ltowns22/UW_LiverDiseaseResearch/Townsend_Said_MASLD_BuiltEnvironment/Townsend_Said_MASLD_BuiltEnvironment")
 
 # demographics and descriptive stats 
 NAFLD.dem.df <- as.data.frame(read_csv("./NAFLD_ADI_all_Lab_FU_data.csv"))
