@@ -22,7 +22,7 @@ library(Matrix)
 library(lme4)
 library(lmerTest)
 
-setwd("/Users/liztown/Documents/LiverResearch2024/Said.902/NADLF_ADI_paper/NAFLD_Rcode")
+setwd("https://github.com/Ltowns22/Townsend_Said_MASLD_BuiltEnvironment")
 
 # demographics and descriptive stats 
 NAFLD.dem.df <- as.data.frame(read_csv("./NAFLD_ADI_all_Lab_FU_data.csv"))
