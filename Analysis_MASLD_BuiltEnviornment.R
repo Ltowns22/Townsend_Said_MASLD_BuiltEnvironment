@@ -346,6 +346,7 @@ plotArrow(Outcome.diablo, comp  = c(1,2),
           title = 'NAFLD with DIABLO') +
   scale_shape_manual(values = c(centroid = 19,CLinic_ADI = 45, MedHX = 42, Labs = 43))
 
+auc.plsda <- auroc(Outcome.diablo, roc.comp = c(1,2), print = T)
 
 plotLoadings(Outcome.diablo, comp = 1, contrib = 'max', method = 'median')
 plotLoadings(Outcome.diablo, comp = 2, contrib = 'max', method = 'median')
@@ -425,6 +426,7 @@ plotArrow(Outcome.diablo, comp  = c(1,2),
           title = 'NAFLD with DIABLO') +
   scale_shape_manual(values = c(centroid = 19,CLinic_ADI = 45, MedHX = 42, Labs = 43))
 
+auc.plsda <- auroc(Outcome.diablo, roc.comp = c(1,2), print = T)
 
 plotLoadings(Outcome.diablo, comp = 1, contrib = 'max', method = 'median')
 plotLoadings(Outcome.diablo, comp = 2, contrib = 'max', method = 'median')
@@ -501,9 +503,11 @@ plotArrow(Outcome.diablo, comp  = c(1,2),
           #col.per.group =c("#8AB17D","#F6D27A","#F5A261"),
           #xlim = c(-4,4), ylim = c(-5,5),
           title = 'NAFLD with DIABLO') +
-  scale_shape_manual(values = c(centroid = 19,CLinic_ADI = 45, MedHX = 42, Labs = 43))+
+  scale_shape_manual(values = c(centroid = 19,CLinic_ADI = 45, MedHX = 42, Labs = 43))
+
+auc.plsda <- auroc(Outcome.diablo, roc.comp = c(1,2), print = T)
   
-  plotLoadings(Outcome.diablo, comp = 1, contrib = 'max', method = 'median')
+plotLoadings(Outcome.diablo, comp = 1, contrib = 'max', method = 'median')
 plotLoadings(Outcome.diablo, comp = 2, contrib = 'max', method = 'median')
 
 cord1_Load_ADI<-plotLoadings(Outcome.diablo, comp = 1, block = "CLinic_ADI", contrib = 'max', method = 'median')
